@@ -1,0 +1,13 @@
+
+h2{
+    color: red;
+}
+.bgimg{
+    background-color: aliceblue;
+    opacity: 2.8;
+    background-size: cover;
+    height: auto;
+}
+table p{
+    text-align: left;
+}

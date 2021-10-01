@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+}
+.footer{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.bgimg{
+    background-color: aliceblue;
+    opacity: 2.8;
+    background-size: cover;
+    height: auto;
+}

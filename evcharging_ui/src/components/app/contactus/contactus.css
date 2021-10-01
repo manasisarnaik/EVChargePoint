@@ -1,0 +1,18 @@
+.container h2{
+    text-align: center;
+    color:black;
+}
+.header h1{
+    color: red;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.image img{
+    background-size: cover;
+}
+.bgimg{
+    background-color: aliceblue;
+    opacity: 2.8;
+    background-size: cover;
+    height: auto;
+}

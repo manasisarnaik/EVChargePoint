@@ -1,0 +1,33 @@
+table,th,td {
+    width: 1700px;
+    margin: auto;
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
+}
+.col h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    text-align: center;
+    
+}
+.col p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+table .table-hover{
+    transform: translate();
+    transition: 0.5s;
+}
+h2{
+    color:black;
+}
+nav{
+    align-items: right;
+}
+.bgimg{
+    background-color: aliceblue;
+    opacity: 2.8;
+    background-size: cover;
+    height: auto;
+}
